@@ -1,7 +1,7 @@
 ---
 title: "Labs"
 layout: category
-permalink: /labs/
+permalink: /Labs/
 taxonomy: category
 taxonomy_term: Labs
 ---
