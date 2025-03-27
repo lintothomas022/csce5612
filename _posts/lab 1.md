@@ -3,10 +3,6 @@ title: "Lab 1"
 last_modified_at: 2025-03-27
 categories:
   - Labs
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 **Introduction**
 On the first day of the course, I was assigned to work with James Cole, a Ph.D. student at the University of North Texas (UNT), for the lab sessions.
