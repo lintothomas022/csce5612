@@ -3,5 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-This website serves as a documentation hub for my labs and projects in CSCE 5612 Embedded Hardware/Software Design.
-It includes detailed records of experiments, project implementations, and technical insights gained throughout the course.
+I am currently pursuing a degree in Computer Engineering at the University of North Texas. I hold a Bachelor's degree in Physics and joined UNT through a pathway program. In addition, I am working as a research assistant under Dr. Xiao Ting,where I contribute to innovative research in pupillometry.
