@@ -1,0 +1,22 @@
+---
+title: "Project"
+last_modified_at: 2025-03-27
+categories:
+  - Project
+---
+On the first day of the course, the professor discussed the idea of working on a project. 
+I proposed an idea focused on preventing explosions in EV batteries due to thermal runaway. 
+I shared the concept with Sai Vijay Sankar Bheemana, and he was excited to collaborate.
+We decided to divide the work: he would handle the machine learning aspect, while I would focus on designing the system.
+
+**Proposal**
+This is a our proposal which we have submitted.
+<figure style="text-align: center; width: 100%; max-width: 600px; margin: auto 0 20px auto;">
+  <iframe src="https://drive.google.com/file/d/1zc0MWl_rNjNRUjPO715wOk8zt3pURe-T/preview" width="640" height="480" allow="autoplay"></iframe>
+</figure>
+
+**Milestone 2**
+We did a presentation in the class about the project. 
+<figure style="text-align: center; width: 100%; max-width: 600px; margin: auto 0 20px auto;">
+  <iframe src="https://drive.google.com/file/d/1SX1rdYScWpdNGY34EunE5h7_Pa1mUlGP/preview" width="640" height="480" allow="autoplay"></iframe>
+</figure> 
