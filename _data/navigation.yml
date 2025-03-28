@@ -9,7 +9,5 @@ main:
     url: /Project/
   - title: "Labs"
     url: /Labs/
-  - title: "Project"
-    url: /Project/
   - title: "About"
     url: /about/
