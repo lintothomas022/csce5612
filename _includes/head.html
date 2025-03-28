@@ -2,6 +2,9 @@
 <!-- Custom Favicon -->
 <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
 
+<!-- Custom Description -->
+<meta name="description" content="{{ page.description | default: site.description }}">
+
 {% include seo.html %}
 
 {% unless site.atom_feed.hide %}
